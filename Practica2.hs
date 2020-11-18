@@ -1,10 +1,3 @@
--- | Estructuras Discretas 2020-1
--- | Práctica 2: Recursión sobre listas
--- | Profesora: Pilar Selene Linares Arévalo
--- | Laboratorio: Adrián Felipe Vélez Rivera
--- | Integrantes: 420004365 juanmanuel32@ciencias.unam.mx
-
-
 module Practica2 where
 
 --fibonacci. Regresa el n-ésimo elemento de una serie de fibonacci
