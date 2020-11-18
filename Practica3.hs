@@ -1,10 +1,3 @@
--- | Estructuras Discretas 2020-1
--- | Práctica 3: Lógica proposicional
--- | Profesora: Pilar Selene Linares Arévalo
--- | Laboratorio: Adrián Felipe Vélez Rivera
--- | Integrantes: 420004365 juanmanuel32@ciencias.unam.mx
-
-
 module Practica3 where
 
 data Var = A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z deriving (Show,Eq)
