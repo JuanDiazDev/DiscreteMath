@@ -1,9 +1,3 @@
--- | Estructuras Discretas 2020-1
--- | Semanal 2: Estructuras recursivas Parte 1
--- | Profesora: Pilar Selene Linares Arévalo
--- | Laboratorio: Adrián Felipe Vélez Rivera
--- | Integrantes: 420004365 juanmanuel32@ciencias.unam.mx
-
 module Semanal2 where
 
 data Nat = Zero | Suc Nat deriving Show
