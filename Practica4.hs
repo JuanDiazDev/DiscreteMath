@@ -1,9 +1,3 @@
--- | Estructuras Discretas 2020-1
--- | Practica 4: Estructuras recursivas Parte 2
--- | Profesora: Pilar Selene Linares Arévalo
--- | Laboratorio: Adrián Felipe Vélez Rivera
--- | Integrantes: 420004365 juanmanuel32@ciencias.unam.mx
-
 module Practica4 where
 
 data Nat = Zero | Suc Nat deriving Show
