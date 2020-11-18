@@ -1,9 +1,3 @@
--- | Estructuras Discretas 2020-1
--- | Práctica 5: Gráficas y relaciones
--- | Profesora: Pilar Selene Linares Arévalo
--- | Laboratorio: Adrián Felipe Vélez Rivera
--- | Integrantes: 420004365 juanmanuel32@ciencias.unam.mx
-
 module Practica5 where
 
 type Graph a = ([a],[(a,a)]) 
